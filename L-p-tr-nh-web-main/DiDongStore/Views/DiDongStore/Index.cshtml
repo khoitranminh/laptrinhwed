@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<center><font color="red "><h1>HÀNG MỚI VỀ</h1></font></center>
+     @foreach (var item in Model)
+                {
+                    <div class="col-sm-4 col-lg-4 col-md-4">
+                        <div class="thumbnail">
+                            <a href="@Url.Action("Chitietphone", "DiDongStore", new { id = item.MaDienThoai }) ">
+                                <img alt=" @item.TenDienThoai" src="~/images/@item.AnhBia" />
+                                <div class="caption">
+                                    <h4 class="pull-right">@item.GiaBan</h4>
+                                    <h4>
+                                        <a hr="#">@item.TenDienThoai</a>
+                                    </h4>
+                                    @*<h4>@item.Mota</h4>*@
+                                </div>
+
+                            </a>
+                        </div>
+                    
+                    </div>
+                }
+           
+
+
+
+
+<!-- /.container -->
+
+

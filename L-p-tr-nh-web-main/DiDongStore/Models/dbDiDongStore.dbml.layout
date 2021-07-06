@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="dbDiDongStore">
+  <DataContextMoniker Name="/dbDiDongStoreDataContext" />
+  <nestedChildShapes>
+    <classShape Id="f6fde822-ad8e-4605-81f3-023be9aea855" absoluteBounds="6.75, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/dbDiDongStoreDataContext/CHITIETDONTHANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3ccea094-62a2-48b7-90c5-451f9407ee25" absoluteBounds="6.765, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="95cfa5d9-701f-4c10-8f1b-4b8534f89e72" absoluteBounds="3.5, 5, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/dbDiDongStoreDataContext/DIENTHOAI" />
+      <nestedChildShapes>
+        <elementListCompartment Id="32dbb308-ea72-44eb-b931-cbec258e466b" absoluteBounds="3.515, 5.46, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="77e4687b-2442-4b2f-b3c7-f05f3a903737" absoluteBounds="0.75, 5.5, 2, 1.1939925130208327">
+      <DataClassMoniker Name="/dbDiDongStoreDataContext/HANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="34d2bcda-b729-4e41-9a31-cbb8c9944f3d" absoluteBounds="0.765, 5.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4bfe3e73-8edb-4fc7-8710-8241816a4ead" absoluteBounds="0.75, 1, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/dbDiDongStoreDataContext/KHACHHANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e54b1fbc-77e1-4428-b771-6537bb47b2c7" absoluteBounds="0.765, 1.46, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="22cccaef-c72e-4f20-ab8d-214b3e5438c1" absoluteBounds="3.5, 1.125, 2, 1.9631982421875003">
+      <DataClassMoniker Name="/dbDiDongStoreDataContext/DONDATHANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e2c11f39-bd14-4bc0-bfff-af1ad0f84aad" absoluteBounds="3.515, 1.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 6.09699625651042); (3.5 : 6.09699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbDiDongStoreDataContext/HANG/HANG_DIENTHOAI" />
+      <nodes>
+        <classShapeMoniker Id="77e4687b-2442-4b2f-b3c7-f05f3a903737" />
+        <classShapeMoniker Id="95cfa5d9-701f-4c10-8f1b-4b8534f89e72" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 2.10659912109375); (3.5 : 2.10659912109375)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/dbDiDongStoreDataContext/KHACHHANG/KHACHHANG_DONDATHANG" />
+      <nodes>
+        <classShapeMoniker Id="4bfe3e73-8edb-4fc7-8710-8241816a4ead" />
+        <classShapeMoniker Id="22cccaef-c72e-4f20-ab8d-214b3e5438c1" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

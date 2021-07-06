@@ -1,0 +1,316 @@
+D:\Local Data\Lập trình web\DiDongStore\bin\DiDongStore.dll.config
+D:\Local Data\Lập trình web\DiDongStore\bin\DiDongStore.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\DiDongStore.pdb
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\csc.exe
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\csc.exe.config
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\csc.rsp
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\csi.exe
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\csi.exe.config
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\csi.rsp
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.AppContext.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.Collections.Immutable.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.Console.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.Globalization.Calendars.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.IO.Compression.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.IO.FileSystem.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.Net.Http.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.Net.Sockets.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.ValueTuple.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.Xml.XPath.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\vbc.exe
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\vbc.exe.config
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\vbc.rsp
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\VBCSCompiler.exe
+D:\Local Data\Lập trình web\DiDongStore\bin\roslyn\VBCSCompiler.exe.config
+D:\Local Data\Lập trình web\DiDongStore\bin\Antlr3.Runtime.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\Microsoft.Web.Infrastructure.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\Newtonsoft.Json.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\System.Web.Helpers.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\System.Web.Mvc.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\System.Web.Optimization.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\System.Web.Razor.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\System.Web.WebPages.Deployment.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\System.Web.WebPages.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\System.Web.WebPages.Razor.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\WebGrease.dll
+D:\Local Data\Lập trình web\DiDongStore\bin\System.Web.Helpers.xml
+D:\Local Data\Lập trình web\DiDongStore\bin\System.Web.Mvc.xml
+D:\Local Data\Lập trình web\DiDongStore\bin\System.Web.Optimization.xml
+D:\Local Data\Lập trình web\DiDongStore\bin\System.Web.Razor.xml
+D:\Local Data\Lập trình web\DiDongStore\bin\System.Web.WebPages.xml
+D:\Local Data\Lập trình web\DiDongStore\bin\System.Web.WebPages.Deployment.xml
+D:\Local Data\Lập trình web\DiDongStore\bin\System.Web.WebPages.Razor.xml
+D:\Local Data\Lập trình web\DiDongStore\bin\Newtonsoft.Json.xml
+D:\Local Data\Lập trình web\DiDongStore\bin\Antlr3.Runtime.pdb
+D:\Local Data\Lập trình web\DiDongStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Local Data\Lập trình web\DiDongStore\obj\Debug\DiDongStore.csprojAssemblyReference.cache
+D:\Local Data\Lập trình web\DiDongStore\obj\Debug\DiDongStore.csproj.CoreCompileInputs.cache
+D:\Local Data\Lập trình web\DiDongStore\obj\Debug\DiDongStore.csproj.CopyComplete
+D:\Local Data\Lập trình web\DiDongStore\obj\Debug\DiDongStore.dll
+D:\Local Data\Lập trình web\DiDongStore\obj\Debug\DiDongStore.pdb
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\DiDongStore.dll.config
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\DiDongStore.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\DiDongStore.pdb
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\csc.exe
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\csc.exe.config
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\csc.rsp
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\csi.exe
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\csi.exe.config
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\csi.rsp
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.AppContext.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.Console.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.Net.Http.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\vbc.exe
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\vbc.exe.config
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\vbc.rsp
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\Antlr3.Runtime.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\Newtonsoft.Json.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\System.Web.Helpers.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\System.Web.Mvc.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\System.Web.Optimization.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\System.Web.Razor.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\System.Web.WebPages.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\WebGrease.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\System.Web.Helpers.xml
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\System.Web.Mvc.xml
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\System.Web.Optimization.xml
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\System.Web.Razor.xml
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\System.Web.WebPages.xml
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\Newtonsoft.Json.xml
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\Antlr3.Runtime.pdb
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\obj\Debug\DiDongStore.csproj.AssemblyReference.cache
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\obj\Debug\DiDongStore.csproj.CoreCompileInputs.cache
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\obj\Debug\DiDongStore.csproj.CopyComplete
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\obj\Debug\DiDongStore.dll
+C:\Users\khoi\Desktop\Lập trình web\Lập trình web\DiDongStore\obj\Debug\DiDongStore.pdb
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\DiDongStore.dll.config
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\DiDongStore.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\DiDongStore.pdb
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\csc.exe
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\csc.exe.config
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\csc.rsp
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\csi.exe
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\csi.exe.config
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\csi.rsp
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.Managed.Core.targets
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.AppContext.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Collections.Immutable.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Console.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Globalization.Calendars.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.IO.Compression.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.IO.FileSystem.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Net.Http.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Net.Sockets.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.ValueTuple.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Xml.XmlDocument.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Xml.XPath.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\vbc.exe
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\vbc.exe.config
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\vbc.rsp
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\VBCSCompiler.exe
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\VBCSCompiler.exe.config
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\Antlr3.Runtime.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\Microsoft.Web.Infrastructure.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\Newtonsoft.Json.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.Helpers.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.Mvc.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.Optimization.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.Razor.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.WebPages.Deployment.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.WebPages.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.WebPages.Razor.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\WebGrease.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.Helpers.xml
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.Mvc.xml
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.Optimization.xml
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.Razor.xml
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.WebPages.xml
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.WebPages.Deployment.xml
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.WebPages.Razor.xml
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\Newtonsoft.Json.xml
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\Antlr3.Runtime.pdb
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\obj\Debug\DiDongStore.csproj.AssemblyReference.cache
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\obj\Debug\DiDongStore.csproj.CoreCompileInputs.cache
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\obj\Debug\DiDongStore.csproj.CopyComplete
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\obj\Debug\DiDongStore.dll
+D:\HocTap\L-p-tr-nh-web-main\DiDongStore\obj\Debug\DiDongStore.pdb
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\DiDongStore.dll.config
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\DiDongStore.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\DiDongStore.pdb
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\csc.exe
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\csc.exe.config
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\csc.rsp
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\csi.exe
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\csi.exe.config
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\csi.rsp
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.AppContext.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Console.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Net.Http.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\vbc.exe
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\vbc.exe.config
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\vbc.rsp
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\Antlr3.Runtime.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\Newtonsoft.Json.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.Helpers.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.Mvc.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.Optimization.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.Razor.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.WebPages.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\WebGrease.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.Helpers.xml
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.Mvc.xml
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.Optimization.xml
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.Razor.xml
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.WebPages.xml
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\Newtonsoft.Json.xml
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\Antlr3.Runtime.pdb
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\obj\Debug\DiDongStore.csproj.CoreCompileInputs.cache
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\obj\Debug\DiDongStore.csproj.CopyComplete
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\obj\Debug\DiDongStore.dll
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\obj\Debug\DiDongStore.pdb
+C:\Users\khoi\Desktop\L-p-tr-nh-web-main\L-p-tr-nh-web-main\DiDongStore\obj\Debug\DiDongStore.csproj.AssemblyReference.cache
