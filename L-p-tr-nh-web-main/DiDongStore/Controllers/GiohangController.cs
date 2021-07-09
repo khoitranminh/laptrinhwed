@@ -158,7 +158,7 @@ namespace DiDongStore.Controllers
             {
                 CHITIETDONTHANG ctdh = new CHITIETDONTHANG();
                 ctdh.MaDonHang = ddh.MaDonHang;
-                ctdh.MaDienThoai = item.iMaDienThoai;
+                ctdh.MaDienThoai = item.iMaDienThoaimm;
                 ctdh.Soluong = item.iSoluong;
                 ctdh.Dongia = (decimal)item.dDongia;
                 data.CHITIETDONTHANGs.InsertOnSubmit(ctdh);
